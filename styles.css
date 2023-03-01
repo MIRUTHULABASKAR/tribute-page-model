@@ -1,0 +1,22 @@
+.#img-div {
+  background-color: white;
+  margin: 40px 20px;
+  padding: 20px 10px;
+}
+html{
+  background-color:pink;
+}
+
+img {
+  margin:auto;
+  max-width: 100%;
+  height: auto;
+  display:block;
+}
+a>tribute-link{
+  target:_blank;
+  }
+.image{
+  margin:auto;
+  padding:5px 10px;
+}
